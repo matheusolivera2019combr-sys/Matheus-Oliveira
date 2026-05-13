@@ -18,5 +18,4 @@ Lógica de Programação
 Estruturas condicionais e loops
 Desenvolvimento de projetos simples
 
- Dados pessoais:
  GMAIL: matheusolivera2019.com.br@gmail.com

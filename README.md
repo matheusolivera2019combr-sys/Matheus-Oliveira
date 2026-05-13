@@ -20,4 +20,3 @@ Desenvolvimento de projetos simples
 
  Dados pessoais:
  GMAIL: matheusolivera2019.com.br@gmail.com
- telefone: 619 8421-8290
